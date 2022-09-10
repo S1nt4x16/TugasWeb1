@@ -13,7 +13,7 @@
             <thead>
                 <tr>
                     <th>No</th>
-                    <th>Agama</th>
+                    <th>Grades</th>
                     <th>Amount</th>
                     <th>Action</th>
                 </tr>
