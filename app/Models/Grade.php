@@ -10,4 +10,6 @@ class Grade extends Model
     use HasFactory;
 
     protected $fillable = ['grades', 'amount'];
+
+    // BY VALENTINUS MORENO
 }

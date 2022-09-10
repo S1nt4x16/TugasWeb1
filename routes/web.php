@@ -17,6 +17,8 @@ use App\Http\Controllers\ToDoListController;
 |
 */
 
+// BY VALENTINUS MORENO
+
 // Route::get('/', [ValenController::class, 'index']);
 Route::resource('/', \App\Http\Controllers\CobaController::class);
 

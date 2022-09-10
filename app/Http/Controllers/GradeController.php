@@ -66,4 +66,6 @@ class GradeController extends Controller
 
         return redirect()->back();
     }
+
+    // BY VALENTINUS MORENO
 }

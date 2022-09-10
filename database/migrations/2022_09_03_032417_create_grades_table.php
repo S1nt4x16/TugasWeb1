@@ -8,7 +8,7 @@ return new class extends Migration
 {
     /**
      * Run the migrations.
-     *
+     * BY VALENTINUS MORENO
      * @return void
      */
     public function up()
