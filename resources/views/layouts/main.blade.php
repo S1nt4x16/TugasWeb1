@@ -60,7 +60,7 @@
             </div>
         </div>
         <footer class="footer">
-            <div><a href="https://instagram.com/nathanael_tan_" target="_blank">Valentinus Moreno</a><a href="https://instagram.com/rpl_pesat" target="_blank">&nbsp;RPL</a> © 2022</div>
+            <div><a href="https://instagram.com/nathanael_tan_" target="_blank">Valentinus Moreno</a><a href="https://instagram.com/rpl_pesat" target="_blank">&nbsp;WebPro</a> © 2022</div>
             <div class="ms-auto">Powered by&nbsp;<a href="#" target="_blank">WebPro Studentday</a></div>
         </footer>
     </div>
